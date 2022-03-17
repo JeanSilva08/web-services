@@ -93,7 +93,7 @@ public class Product implements Serializable {
 	public Set<Category> getCategories() {
 		return categories;
 	}
-	
+
 	@JsonIgnore
 	public Set<Order> getOrders() {
 		Set<Order> set = new HashSet<>();
