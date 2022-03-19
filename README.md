@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 https://web-services-project.herokuapp.com/
 
-## É possível utilizar qualquer ferramenta de requisições HTTP para testar o serviço, a utilizado no projeto foi a Postman.
+## É possível utilizar qualquer ferramenta de requisições HTTP para testar o serviço, a utilizada no projeto foi o Postman.
 
 
 ## Serviços disponíveis
